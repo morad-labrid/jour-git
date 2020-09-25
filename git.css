@@ -1,0 +1,28 @@
+*
+{
+    margin-left: 10px;
+    padding: 0px;
+    color: #4F4F4F;
+    font-family: 'Quicksand', sans-serif;
+}
+
+table,th ,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+h1
+{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+p
+{
+    font-size: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
